@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<dict>
+    <key>borderRadiusNone</key><string>0pt</string>
+    <key>borderRadiusSm</key><string>8pt</string>
+    <key>borderRadiusMd</key><string>16pt</string>
+    <key>borderRadiusLg</key><string>24pt</string>
+    <key>borderRadiusPill</key><string>500pt</string>
+    <key>borderRadiusCircular</key><string>50%</string>
+    <key>borderWidthNone</key><string>0pt</string>
+    <key>borderWidthHairline</key><string>1pt</string>
+    <key>borderWidthThin</key><string>2pt</string>
+    <key>borderWidthThick</key><string>4pt</string>
+    <key>borderWidthHeavy</key><string>8pt</string>
+    <key>fontSizeXxxs</key><string>12pt</string>
+    <key>fontSizeXxs</key><string>14pt</string>
+    <key>fontSizeXs</key><string>16pt</string>
+    <key>fontSizeSm</key><string>20pt</string>
+    <key>fontSizeMd</key><string>24pt</string>
+    <key>fontSizeLg</key><string>32pt</string>
+    <key>fontSizeXl</key><string>40pt</string>
+    <key>fontSizeXxl</key><string>48pt</string>
+    <key>fontSizeXxxl</key><string>64pt</string>
+    <key>fontSizeDisplay</key><string>80pt</string>
+    <key>fontSizeGiant</key><string>96pt</string>
+    <key>lineHeightTight</key><string>100%</string>
+    <key>lineHeightMedium</key><string>110%</string>
+    <key>lineHeightDistant</key><string>150%</string>
+    <key>lineHeightSuperdistant</key><string>200%</string>
+    <key>opacityLevelSemiopaque</key><string>0.80</string>
+    <key>opacityLevelIntense</key><string>0.64</string>
+    <key>opacityLevelMedium</key><string>0.32</string>
+    <key>opacityLevelLight</key><string>0.16</string>
+    <key>opacityLevelSemitransparent</key><string>0.08</string>
+    <key>shadowLevel1</key><string>0px 4px 8px</string>
+    <key>shadowLevel2</key><string>0px 8px 24px</string>
+    <key>shadowLevel3</key><string>0px 16px 32px</string>
+    <key>shadowLevel4</key><string>0px 16px 48px</string>
+    <key>spacingInlineQuarck</key><string>4pt</string>
+    <key>spacingInlineNano</key><string>8pt</string>
+    <key>spacingInlineXxxs</key><string>16pt</string>
+    <key>spacingInlineXxs</key><string>24pt</string>
+    <key>spacingInlineXs</key><string>32pt</string>
+    <key>spacingInlineSm</key><string>40pt</string>
+    <key>spacingInlineMd</key><string>48pt</string>
+    <key>spacingInlineLg</key><string>64pt</string>
+    <key>spacingInlineXl</key><string>80pt</string>
+    <key>spacingInsetQuarck</key><string>4pt</string>
+    <key>spacingInsetNano</key><string>8pt</string>
+    <key>spacingInsetXs</key><string>16pt</string>
+    <key>spacingInsetSm</key><string>24pt</string>
+    <key>spacingInsetMd</key><string>32pt</string>
+    <key>spacingInsetLg</key><string>40pt</string>
+    <key>spacingStackQuarck</key><string>4pt</string>
+    <key>spacingStackNano</key><string>8pt</string>
+    <key>spacingStackXxxs</key><string>16pt</string>
+    <key>spacingStackXxs</key><string>24pt</string>
+    <key>spacingStackXs</key><string>32pt</string>
+    <key>spacingStackSm</key><string>40pt</string>
+    <key>spacingStackMd</key><string>48pt</string>
+    <key>spacingStackLg</key><string>56pt</string>
+    <key>spacingStackXl</key><string>64pt</string>
+    <key>spacingStackXxl</key><string>80pt</string>
+    <key>spacingStackXxxl</key><string>128pt</string>
+    <key>spacingStackHuge</key><string>160pt</string>
+    <key>spacingStackGiant</key><string>200pt</string>
+    <key>spacingSquishQuarck</key><string>4pt 8pt</string>
+    <key>spacingSquishNano</key><string>8pt 16pt</string>
+    <key>spacingSquishXs</key><string>16pt 24pt</string>
+    <key>spacingSquishSm</key><string>16pt 32pt</string>
+    
+</dict>
+</plist>

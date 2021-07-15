@@ -1,0 +1,24 @@
+{
+  "spacing": {
+    "inset": {
+      "quarck": {
+        "value": "{spacing.stack.quarck.value}"
+      },
+      "nano": {
+        "value": "{spacing.stack.nano.value}"
+      },
+      "xs": {
+        "value": "{spacing.stack.xxxs.value}"
+      },
+      "sm": {
+        "value": "{spacing.stack.xxs.value}"
+      },
+      "md": {
+        "value": "{spacing.stack.xs.value}"
+      },
+      "lg": {
+        "value": "{spacing.stack.sm.value}"
+      }
+    }
+  }
+}

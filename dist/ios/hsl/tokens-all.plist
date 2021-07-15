@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<dict>
+    <key>fontFamilyHighlight</key><string>Poppins</string>
+    <key>fontWeightRegular</key><string>400</string>
+    <key>fontWeightMedium</key><string>600</string>
+    <key>fontWeightBold</key><string>700</string>
+    
+</dict>
+</plist>

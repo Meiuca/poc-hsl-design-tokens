@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<dict>
+    <key>colorNeutral01</key><string>#000000</string>
+    <key>colorNeutral02</key><string>#70747B</string>
+    <key>colorNeutral03</key><string>#A6AAAF</string>
+    <key>colorNeutral04</key><string>#E4E5E7</string>
+    <key>colorNeutral05</key><string>#ffffff</string>
+    <key>colorBrandPrimary01</key><string>#691C07</string>
+    <key>colorBrandPrimary02</key><string>#8F260A</string>
+    <key>colorBrandPrimary03</key><string>#F04E23</string>
+    <key>colorBrandPrimary04</key><string>#FBD1C6</string>
+    <key>colorBrandPrimary05</key><string>#FEF0EC</string>
+    
+</dict>
+</plist>

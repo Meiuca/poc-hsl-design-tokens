@@ -1,0 +1,10 @@
+{
+  "font": {
+    "family": {
+      "highlight": {
+        "value": "Poppins",
+        "attributes": {"font": "base"}
+      }
+    }
+  }
+}

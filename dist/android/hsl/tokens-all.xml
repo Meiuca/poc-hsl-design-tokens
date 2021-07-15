@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <item name="fontFamilyHighlight">Poppins</item>
+    <item name="fontWeightRegular">400</item>
+    <item name="fontWeightMedium">600</item>
+    <item name="fontWeightBold">700</item>
+    
+</resources>

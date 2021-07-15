@@ -1,0 +1,33 @@
+{
+  "spacing": {
+    "inline": {
+      "quarck": {
+        "value": "{spacing.stack.quarck.value}"
+      },
+      "nano": {
+        "value": "{spacing.stack.nano.value}"
+      },
+      "xxxs": {
+        "value": "{spacing.stack.xxxs.value}"
+      },
+      "xxs": {
+        "value": "{spacing.stack.xxs.value}"
+      },
+      "xs": {
+        "value": "{spacing.stack.xs.value}"
+      },
+      "sm": {
+        "value": "{spacing.stack.sm.value}"
+      },
+      "md": {
+        "value": "{spacing.stack.md.value}"
+      },
+      "lg": {
+        "value": "{spacing.stack.xl.value}"
+      },
+      "xl": {
+        "value": "{spacing.stack.xxl.value}"
+      }
+    }
+  }
+}

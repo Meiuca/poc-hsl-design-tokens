@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <color name="colorNeutral01">#000000</color>
+    <color name="colorNeutral02">#70747B</color>
+    <color name="colorNeutral03">#A6AAAF</color>
+    <color name="colorNeutral04">#E4E5E7</color>
+    <color name="colorNeutral05">#ffffff</color>
+    <color name="colorBrandPrimary01">#691C07</color>
+    <color name="colorBrandPrimary02">#8F260A</color>
+    <color name="colorBrandPrimary03">#F04E23</color>
+    <color name="colorBrandPrimary04">#FBD1C6</color>
+    <color name="colorBrandPrimary05">#FEF0EC</color>
+    
+</resources>

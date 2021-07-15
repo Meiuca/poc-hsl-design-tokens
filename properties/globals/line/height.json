@@ -1,0 +1,18 @@
+{
+  "line": {
+    "height": {
+      "tight": {
+        "value": "100%"
+      },
+      "medium": {
+        "value": "110%"
+      },
+      "distant": {
+        "value": "150%"
+      },
+      "superdistant": {
+        "value": "200%"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "reactds-design-tokens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Will Angelico <will.angelico@meiuca.design>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.0.0",
+    "lodash": "^4.17.21",
+    "style-dictionary": "^3.0.1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "color": {
+    "neutral": {
+      "01": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "02": {
+        "value": "#70747B",
+        "type": "color"
+      },
+      "03": {
+        "value": "#A6AAAF",
+        "type": "color"
+      },
+      "04": {
+        "value": "#E4E5E7",
+        "type": "color"
+      },
+      "05": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  }
+}
