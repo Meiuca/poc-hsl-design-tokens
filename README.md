@@ -11,7 +11,7 @@ Copying starter files...
 
 Source style dictionary starter files created!
 
-Running `style-dictionary build` for the first time to generate build artifacts.
+Running `npm run build` for the first time to generate build artifacts.
 
 
 scss
